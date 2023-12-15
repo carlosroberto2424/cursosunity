@@ -5,3 +5,5 @@ Essa experiência não apenas me proporcionou insights valiosos, mas também des
 
 O curso foi fundamental, oferecendo um conteúdo robusto e repleto de informações detalhadas. Estou seguro de que essa experiência terá um impacto significativo em minha formação, 
 capacitando-me a aplicar tanto os conhecimentos práticos quanto teóricos adquiridos ao longo do curso em minha jornada profissional futura.
+
+segue o link do perfil: https://learn.unity.com/u/657c6efaedbc2a09ecf309b4?tab=profile
